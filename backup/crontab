@@ -1,0 +1,2 @@
+# m h dom mon dow command
+5 * * * * /usr/local/bin/backup.sh >> /var/log/backup.log 2>&1

@@ -1,4 +1,4 @@
-# NoteSpace – App de Notas
+# App de Notas
 
 Aplicación web contenerizada con Docker, compuesta por:
 
